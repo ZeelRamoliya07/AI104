@@ -37,7 +37,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #ffcc00;
+    color: hsl(48, 100%, 56%);
 }
 
 /* Hero Section */
@@ -70,7 +70,7 @@ nav ul li a:hover {
 }
 
 .btn:hover {
-    background: #ff9900;
+    background: hsl(36, 100%, 50%);
 }
 
 /* Product Section */
