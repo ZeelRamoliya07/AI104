@@ -11,7 +11,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center; /* Centers the title */
-    background: #0080ff;
+    background: #3f6499;
     padding: 20px;
     color: white;
     position: relative;
@@ -30,7 +30,7 @@ header {
 
 /* Navigation Bar */
 nav {
-    background:#0080ff;
+    background:#3f6499;
     padding: 10px;
     text-align: center;
 }
@@ -133,7 +133,7 @@ nav ul li a {
 
 /* Footer */
 footer {
-    background: #003366;
+    background: #2a3951;
     color: white;
     text-align: center;
     padding: 15px;
